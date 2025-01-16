@@ -44,6 +44,7 @@ public class Agenda {
             contacto = null;
             contactoEliminado = true;
         }
+        System.out.println("Hola mundo.");
         return contactoEliminado;
     }
 }
