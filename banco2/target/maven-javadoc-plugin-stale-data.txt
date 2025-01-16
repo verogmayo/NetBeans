@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/veronique.gru/OneDrive - Educacyl/APUNTES/PROGRAMACIÓN/NetBeans/banco2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/veronique.gru/OneDrive - Educacyl/APUNTES/PROGRAMACIÓN/NetBeans/banco2/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'banco2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'banco2 1.0-SNAPSHOT API'
+com.mycompany.banco2
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\src\main\java = 1730118040266
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\allclasses-index.html = 1732008318124
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\allpackages-index.html = 1732008318127
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\copy.svg = 1732008318153
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\element-list = 1732008318068
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\help-doc.html = 1732008318149
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\index-all.html = 1732008318141
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\index.html = 1732008318145
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\link.svg = 1732008318154
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\member-search-index.js = 1732008318130
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\module-search-index.js = 1732008318128
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\overview-tree.html = 1732008318112
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\package-search-index.js = 1732008318129
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\script.js = 1732008318152
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\search-page.js = 1732008318159
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\search.html = 1732008318143
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\search.js = 1732008318157
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\stylesheet.css = 1732008318151
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\tag-search-index.js = 1732008318131
+C:\Users\veronique.gru\OneDrive - Educacyl\APUNTES\PROGRAMACIÓN\NetBeans\banco2\target\reports\apidocs\type-search-index.js = 1732008318129
